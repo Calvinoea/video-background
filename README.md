@@ -1,7 +1,7 @@
 # video-background
 
 
-A video background homepage for a travel website. 
+A responsive homepage with a video background for a travel website. 
 
 
  
