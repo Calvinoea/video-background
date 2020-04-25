@@ -7,9 +7,9 @@ A video background homepage for a travel website.
  
   
 ## Screenshot
-![screenshot](./images/screenshotone.png)
-![screenshot](./images/screenshottwo.png)
-![screenshot](./images/screenshotthree.png)
+![screenshot](./screenshotone.png)
+![screenshot](./screenshottwo.png)
+![screenshot](./screenshotthree.png)
 
 
 ## Built With  
